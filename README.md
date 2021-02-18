@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" width="150" height="150" alt="Bhumin Bhandari" src="https://raw.githubusercontent.com/bhandaribhumin/bhandaribhumin/master/assets/Profile_pic.png"/>
+<img align="left" width="150" height="150" alt="Bhumin Bhandari" src="https://raw.githubusercontent.com/bhandaribhumin/bhandaribhuminpfizer/master/Profile_pic.png"/>
 
 ### I'm [Bhumin Bhandari](https://github.com/bhandaribhuminpfizer)
 

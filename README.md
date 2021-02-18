@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="left" width="150" height="150" alt="Bhumin Bhandari" src="https://raw.githubusercontent.com/bhandaribhumin/bhandaribhumin/master/assets/avatar1.jpg"/>
+<img align="left" width="150" height="150" alt="Bhumin Bhandari" src="https://raw.githubusercontent.com/bhandaribhumin/bhandaribhumin/master/assets/Profile_pic.png"/>
 
-### I'm [Bhumin Bhandari](https://github.com/bhandaribhumin)
+### I'm [Bhumin Bhandari](https://github.com/bhandaribhuminpfizer)
 
 A JavaScript developer from Mumbai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
@@ -12,7 +12,7 @@ A JavaScript developer from Mumbai. I love building applications & discussing ne
 
 ### Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bhandaribhumin)
+![Github stats](https://github-readme-stats.vercel.app/api?username=bhandaribhuminpfizer)
 
 ### I'm Currently
 
